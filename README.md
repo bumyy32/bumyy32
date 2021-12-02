@@ -8,7 +8,7 @@
 
 
 
-- 🌱 Atualmente estou cursando Tecnologia da Informação!
+- 🌱 Atualmente estou cursando Tecnologia da Informação (TI)!
 
 
 
@@ -28,7 +28,7 @@ English:
 
 
 
-- 🌱 I am currently studying Information Technology!
+- 🌱 I am currently studying Information Technology (IT)!
 
 
 
